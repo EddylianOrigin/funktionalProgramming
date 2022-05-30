@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Haskell.iml" filepath="$PROJECT_DIR$/.idea/Haskell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/funktionalProgramming.iml" filepath="$PROJECT_DIR$/.idea/funktionalProgramming.iml" />
     </modules>
   </component>
 </project>
